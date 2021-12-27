@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @farleyman
-- 👀 I’m interested in learning to code and in. Ci/CD stuff
+- 👀 I’m interested in learning to code and interested in learning about Ci/CD stuff
 - 🌱 I’m currently learning about Docker
-- 
 - 📫 How to reach me farleymv@att.net
 
 <!---
